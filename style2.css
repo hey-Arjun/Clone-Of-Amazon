@@ -1,0 +1,15 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+nav{
+    display: flex;
+    background-color: black;
+    color: white;
+    list-style: none;
+    padding: 0 23px;
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+}
+
